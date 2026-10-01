@@ -1,0 +1,20 @@
+role: "Software Development Engineering Intern"
+organization: "SK Info Techies"
+duration: "May 2025 - July 2025"
+description:
+  - "Developed and enhanced web applications using JavaScript & React.js, improving responsiveness, user experience, and system reliability."
+  - "Performed MySQL/MongoDB operations, REST API integration, debugging, and performance optimization, reducing issue resolution time by ~20% through troubleshooting and root cause analysis."
+  - "Supported testing, deployment, and production issue investigation in Linux, leveraging Git & CI/CD pipelines to improve reliability."
+  - "Participated in Agile SDLC processes, code reviews, sprint planning, and cross-functional issue resolution."
+  - "Monitored application performance, analyzed logs, and identified issues contributing to system availability and operational excellence."
+technologies:
+  - "JavaScript"
+  - "React.js"
+  - "MySQL"
+  - "MongoDB"
+  - "REST APIs"
+  - "Git"
+  - "CI/CD"
+  - "Linux"
+  - "Docker"
+order: 1

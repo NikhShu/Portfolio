@@ -1,0 +1,6 @@
+title: "Building a Real-Time Pose Detection System from Scratch"
+excerpt: "A technical deep-dive into implementing an OpenPose-inspired architecture using Keras, covering multi-stage refinement, PAFs, and real-time optimization strategies."
+date: "2025"
+category: "Computer Vision"
+readTime: "8 min read"
+url: ""

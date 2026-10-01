@@ -1,0 +1,9 @@
+category: "Artificial Intelligence"
+items:
+  - "Machine Learning (Supervised & Unsupervised)"
+  - "Deep Learning (CNNs, RNNs, Transformers)"
+  - "Large Language Models & RAG Pipelines"
+  - "Natural Language Processing"
+  - "Recommender Systems"
+  - "Feature Engineering & Model Optimization"
+order: 2

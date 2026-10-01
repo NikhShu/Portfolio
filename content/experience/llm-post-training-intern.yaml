@@ -1,0 +1,36 @@
+role: LLM Post Training Intern
+organization: Ethara AI
+duration: Feb 2026 - June 2026
+description:
+  - >-
+    Built and validated multi-turn and long-horizon agent evaluation tasks
+    covering reasoning, planning, instruction following, tool usage, memory, and
+    autonomous task completion.
+  - >-
+    Developed and worked with agentic benchmark workflows and
+    trajectory-generation pipelines, supporting evaluation and post-training
+    data workflows across Kensei, OpenClaw, and WildClawBench.
+  - >-
+    Created and validated evaluation rubrics, test cases, deterministic graders,
+    and QC checks to ensure benchmark tasks and evaluation bundles met
+    structural and execution requirements.
+  - >-
+    Worked on multimodal and stateful benchmark environments, including tasks
+    involving tool interactions, state mutations, persistent context, and
+    multi-step execution.
+  - >-
+    Debugged task-generation and evaluation failures, including state-mutation
+    issues, grading failures, benchmark inconsistencies, and pipeline-level
+    validation issues.
+  - >-
+    Contributed to SFT/RL/RLHF-related post-training workflows and
+    evaluation-data preparation, using Python, PyTest, AWS EC2, Amazon Bedrock,
+    Docker, and Git/GitHub.
+technologies:
+  - Python
+  - PyTest
+  - AWS EC2
+  - Amazon Bedrock
+  - Docker
+  - Git / GitHub
+order: 1

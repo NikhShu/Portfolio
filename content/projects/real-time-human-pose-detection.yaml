@@ -1,0 +1,35 @@
+title: "Real-Time Human Pose Detection using Deep Learning & OpenCV"
+tagline: "OpenPose-inspired real-time keypoint detection for posture analysis"
+category: "Computer Vision"
+problem: "Real-time human pose estimation remains challenging in unconstrained environments. Existing solutions are either too slow for real-time use or lack accuracy for fine-grained posture analysis."
+solution: "Developed a lightweight OpenPose-inspired 2D keypoint detection system using Keras, integrating both image-based and real-time posture estimation with Part Affinity Fields (PAFs)."
+architecture:
+  - "VGG-based feature extractor with multi-stage refinement"
+  - "19 heatmap channels for keypoint confidence mapping"
+  - "38 PAF channels for body-part association fields"
+  - "Geometric heuristics for posture classification"
+features:
+  - "Full-body 18-keypoint detection in real-time"
+  - "Posture classification: Straight, Hunchback, Reclined"
+  - "Hand folding and kneeling detection"
+  - "Configurable model parameters and thresholds"
+  - "Dual mode: image-based and webcam real-time"
+technologies:
+  - "Python"
+  - "TensorFlow"
+  - "Keras"
+  - "OpenCV"
+  - "OpenPose"
+  - "NumPy"
+  - "SciPy"
+challenges:
+  - "Reimplementing OpenPose's complex multi-stage architecture from scratch"
+  - "Optimizing inference speed for real-time webcam performance"
+  - "Designing accurate geometric heuristics for posture classification"
+results: "Successfully demonstrated real-time pose detection with configurable accuracy-speed tradeoffs, capable of running on CPU with practical frame rates."
+github: "https://github.com/NikhShu/Sitting_Posture_Recognition-"
+demo: ""
+patent: ""
+patentDate: ""
+featured: true
+order: 3

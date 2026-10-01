@@ -1,0 +1,4 @@
+name: "MySQL"
+category: "Databases"
+icon: "mysql"
+order: 0

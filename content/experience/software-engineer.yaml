@@ -1,0 +1,44 @@
+role: Software Engineer
+organization: Ethara AI
+duration: July 2026 - Present
+description:
+  - >-
+    Build and maintain agent evaluation infrastructure for multi-turn and
+    long-horizon tasks, covering tool use, state transitions, memory/context,
+    planning, and autonomous task execution.
+  - >-
+    Develop trajectory-generation and evaluation workflows using Python, AWS
+    EC2, and Amazon Bedrock, supporting large-scale execution and assessment of
+    agent tasks.
+  - >-
+    Develop and debug deterministic graders, PyTest validators, evaluation
+    rubrics, and automated QC pipelines for benchmark task and evaluation
+    integrity.
+  - >-
+    Build and validate benchmark quality-control systems covering task
+    structure, rubric consistency, test configuration, state mutations, expected
+    outcomes, and execution requirements.
+  - >-
+    Debug model-judge and regrading pipelines, including Claude OAuth,
+    Bedrock-based model routing, authentication, provider configuration, and
+    evaluation infrastructure.
+  - >-
+    Work across Kensei, OpenClaw, and WildClawBench, contributing to benchmark
+    execution, grading, regrading, and evaluation infrastructure.
+  - >-
+    Manage and troubleshoot large-scale development workflows using Git/GitHub,
+    Docker, Linux, Bash, Node.js/npm, and CLI-based tooling, including
+    branching, rebasing, sparse checkout, and repository synchronization.
+technologies:
+  - Python
+  - PyTest
+  - AWS EC2
+  - Amazon Bedrock
+  - Docker
+  - Linux
+  - Bash/Shell
+  - Git/GitHub
+  - Node.js/npm
+  - Claude/OAuth
+  - CLI
+order: 0

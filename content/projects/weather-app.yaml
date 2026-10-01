@@ -1,0 +1,26 @@
+title: "Weather App"
+tagline: "Real-time weather information at your fingertips"
+category: "Full Stack"
+problem: "Accessing accurate, up-to-date weather information should be simple and intuitive."
+solution: "Created a clean, responsive weather application that fetches and displays real-time weather data."
+architecture: []
+features:
+  - "Real-time weather data display"
+  - "Location-based weather lookup"
+  - "Clean, minimal UI"
+  - "Responsive design"
+technologies:
+  - "JavaScript"
+  - "HTML5"
+  - "CSS3"
+  - "REST APIs"
+challenges:
+  - "Integrating external weather APIs reliably"
+  - "Handling error states gracefully"
+results: "A polished weather application demonstrating API integration and responsive design skills."
+github: "https://github.com/NikhShu/Weather-App"
+demo: ""
+patent: ""
+patentDate: ""
+featured: false
+order: 5

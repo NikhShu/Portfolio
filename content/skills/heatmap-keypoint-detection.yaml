@@ -1,0 +1,4 @@
+name: "Heatmap Keypoint Detection"
+category: "Deep Learning"
+icon: "heatmap"
+order: 3

@@ -1,0 +1,9 @@
+category: "Production Engineering"
+items:
+  - "CI/CD Pipelines & Automation"
+  - "Docker Containerization"
+  - "Cloud Infrastructure (AWS/GCP)"
+  - "Monitoring & Observability (Prometheus, Grafana)"
+  - "Incident Management & Root Cause Analysis"
+  - "Performance Optimization & Scalability"
+order: 4

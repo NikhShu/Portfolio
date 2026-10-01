@@ -1,0 +1,35 @@
+title: "Analytical Posture Modelling for Personalized Curriculum Optimization"
+tagline: "AI-driven posture analysis meets personalized education"
+category: "Computer Vision + AI"
+problem: "Traditional classroom settings lack objective, automated tools to assess student engagement and posture during learning sessions. Educators need data-driven insights to personalize curriculum delivery based on student physical and cognitive states."
+solution: "Developed a real-time posture classification system using CNNs, OpenCV, and upper-body keypoint detection, integrated with a scalable analytics pipeline for personalized curriculum recommendations."
+architecture:
+  - "CNN-based real-time posture classification pipeline"
+  - "Upper-body keypoint detection with Gaussian Filtering and NMS"
+  - "Automated performance metrics tracking via MySQL"
+  - "Power BI dashboards for posture-performance correlation analysis"
+features:
+  - "Real-time posture analysis (Straight, Hunchback, Reclined)"
+  - "Automated curriculum recommendations based on posture patterns"
+  - "Interactive Power BI dashboards for educators"
+  - "End-to-end data pipeline for performance tracking"
+technologies:
+  - "Python"
+  - "TensorFlow"
+  - "OpenCV"
+  - "CNNs"
+  - "MySQL"
+  - "Power BI"
+  - "NumPy"
+  - "Pandas"
+challenges:
+  - "Achieving accurate posture classification across diverse body types and lighting conditions"
+  - "Optimizing real-time inference speed for classroom deployment"
+  - "Designing intuitive dashboards that educators can actually use"
+results: "Successfully published as a patent (202511063027) on August 29, 2025, demonstrating innovative integration of computer vision with educational technology."
+github: "https://github.com/NikhShu/posture-based-curriculum-recommendation"
+demo: ""
+patent: "202511063027"
+patentDate: "August 2025"
+featured: true
+order: 1

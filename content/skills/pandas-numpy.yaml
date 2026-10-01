@@ -1,0 +1,4 @@
+name: "Pandas/NumPy"
+category: "Data Engineering"
+icon: "pandas"
+order: 2

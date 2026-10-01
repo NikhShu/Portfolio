@@ -1,0 +1,4 @@
+name: "CI/CD"
+category: "DevOps"
+icon: "cicd"
+order: 1

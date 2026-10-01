@@ -1,0 +1,35 @@
+title: "Multimodal Deepfake Detection: Voice + Video"
+tagline: "Detecting synthetic media across audio and visual modalities"
+category: "AI/ML + Security"
+problem: "Deepfake technology is rapidly evolving, making it increasingly difficult to detect manipulated media. Single-modality detectors are easily fooled, and there's a growing need for robust multimodal approaches."
+solution: "Built a multimodal deepfake detection system combining LLMs, CNNs, and audio-video signal processing to accurately classify manipulated content through advanced feature extraction and model optimization."
+architecture:
+  - "Parallel audio and video processing pipelines"
+  - "CNN-based spatial feature extraction for video frames"
+  - "Audio signal processing with spectral feature analysis"
+  - "Multimodal fusion layer for combined classification"
+features:
+  - "Dual-modality detection (audio + video) for higher accuracy"
+  - "Scalable ETL/ELT pipelines for large-scale dataset processing"
+  - "Automated model evaluation and performance monitoring"
+  - "Robust against common deepfake generation techniques"
+technologies:
+  - "Python"
+  - "TensorFlow"
+  - "Keras"
+  - "OpenCV"
+  - "Librosa"
+  - "CNNs"
+  - "LLMs"
+  - "ETL Pipelines"
+challenges:
+  - "Synchronizing audio and video streams for coherent multimodal analysis"
+  - "Building robust feature extractors that generalize across deepfake techniques"
+  - "Managing large-scale multimodal datasets with efficient pipeline automation"
+results: "Achieved robust classification accuracy across multiple deepfake generation methods, with particular strength in detecting audio-visual inconsistencies."
+github: ""
+demo: ""
+patent: ""
+patentDate: ""
+featured: true
+order: 2

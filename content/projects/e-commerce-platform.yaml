@@ -1,0 +1,25 @@
+title: "E-Commerce Platform"
+tagline: "Full-stack e-commerce web application"
+category: "Full Stack"
+problem: "Small businesses need affordable, customizable e-commerce solutions without the overhead of complex enterprise platforms."
+solution: "Built a complete e-commerce web application with product management, cart functionality, and checkout flow."
+architecture: []
+features:
+  - "Product catalog with categories and search"
+  - "Shopping cart and checkout system"
+  - "Responsive design for mobile and desktop"
+  - "User-friendly interface"
+technologies:
+  - "HTML5"
+  - "CSS3"
+  - "JavaScript"
+challenges:
+  - "Implementing a smooth, intuitive shopping experience"
+  - "Ensuring responsive design across all device sizes"
+results: "A fully functional e-commerce frontend demonstrating strong fundamentals in web development."
+github: "https://github.com/NikhShu/e-Commerce"
+demo: ""
+patent: ""
+patentDate: ""
+featured: false
+order: 4

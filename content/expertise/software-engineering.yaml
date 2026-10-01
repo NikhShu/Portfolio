@@ -1,0 +1,9 @@
+category: "Software Engineering"
+items:
+  - "System Design & Architecture"
+  - "REST API Development"
+  - "Database Design (SQL & NoSQL)"
+  - "Microservices Architecture"
+  - "Object-Oriented Programming"
+  - "Design Patterns"
+order: 1

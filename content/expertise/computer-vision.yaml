@@ -1,0 +1,9 @@
+category: "Computer Vision"
+items:
+  - "Real-Time Pose Estimation (OpenPose)"
+  - "Object Detection & Tracking"
+  - "Image Processing & Augmentation"
+  - "Multimodal Analysis (Audio + Video)"
+  - "Keypoint Detection & PAFs"
+  - "Deepfake Detection"
+order: 3

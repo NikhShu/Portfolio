@@ -1,0 +1,6 @@
+title: "Computer Vision Exploration"
+year: "2024"
+subtitle: "Academic research & projects"
+description: "Started working on computer vision — implemented an OpenPose-inspired real-time pose detection system using Keras and OpenCV. Explored CNNs, heatmaps, and Part Affinity Fields."
+type: "research"
+order: 3

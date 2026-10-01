@@ -1,0 +1,4 @@
+name: "PostgreSQL"
+category: "Databases"
+icon: "postgresql"
+order: 2
